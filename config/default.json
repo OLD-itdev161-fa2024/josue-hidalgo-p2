@@ -1,0 +1,4 @@
+{
+    "mongoURI" : "mongodb+srv://josue-hidalgo:matc2024@cluster0.zeefr3v.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret": "aquaria"
+}
